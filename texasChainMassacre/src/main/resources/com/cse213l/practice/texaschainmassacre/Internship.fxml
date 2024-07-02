@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="505.0" prefWidth="611.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.cse213l.practice.texaschainmassacre.Internship">
+   <children>
+      <Label layoutX="21.0" layoutY="26.0" text="Intern ID :" />
+      <Label layoutX="271.0" layoutY="35.0" text="Select Training Type : ">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="21.0" layoutY="61.0" text="Intern Name : " />
+      <Label fx:id="nameLabel" layoutX="126.0" layoutY="61.0" prefHeight="17.0" prefWidth="117.0" style="-fx-background-color: lightgrey;" />
+      <Label layoutX="21.0" layoutY="117.0" text="Payment Status : " />
+      <Label fx:id="statusLabel" layoutX="126.0" layoutY="117.0" prefHeight="17.0" prefWidth="117.0" style="-fx-background-color: lightgrey;" />
+      <ComboBox fx:id="idComboBox" layoutX="126.0" layoutY="22.0" onAction="#internOnAction" prefHeight="26.0" prefWidth="117.0" />
+      <CheckBox fx:id="sprintBoostCheckBox" layoutX="270.0" layoutY="61.0" mnemonicParsing="false" text="Sprint Boost" />
+      <CheckBox fx:id="blockChainCheckBox" layoutX="271.0" layoutY="89.0" mnemonicParsing="false" text="Block Chain" />
+      <CheckBox fx:id="skillCheckBox" layoutX="380.0" layoutY="60.0" mnemonicParsing="false" text="Communication Skill" />
+      <Button layoutX="526.0" layoutY="44.0" mnemonicParsing="false" onAction="#showTrainingInfoOnMouseClick" prefHeight="90.0" prefWidth="75.0" text="Show in Table" textAlignment="CENTER" wrapText="true" />
+      <Button fx:id="addTraineeInTraineeArrayList" layoutX="13.0" layoutY="147.0" mnemonicParsing="false" onAction="#addTraineeOnMouseClick" prefHeight="26.0" prefWidth="422.0" text="Add a trainee instance in Trainee list " />
+      <Button layoutX="21.0" layoutY="455.0" mnemonicParsing="false" onAction="#showTraineeCountOnMouseClick" prefHeight="26.0" prefWidth="342.0" text="Show Trainee count Of selected  University name and Payment Staus" />
+      <ComboBox fx:id="paymentStatusComboBox" layoutX="188.0" layoutY="411.0" prefHeight="26.0" prefWidth="173.0" />
+      <ComboBox fx:id="uniNameComboBox" layoutX="188.0" layoutY="376.0" prefHeight="26.0" prefWidth="173.0" />
+      <Label layoutX="24.0" layoutY="380.0" text="Select Uni Name :" />
+      <Label layoutX="21.0" layoutY="415.0" text="Select Payment Status : " />
+      <Label fx:id="showOutputLabel" layoutX="381.0" layoutY="366.0" prefHeight="115.0" prefWidth="204.0" style="-fx-background-color: lightgrey;" />
+      <TableView fx:id="internTable" layoutX="2.0" layoutY="198.0" prefHeight="151.0" prefWidth="609.0">
+        <columns>
+          <TableColumn fx:id="idCol" prefWidth="75.0" text="ID" />
+          <TableColumn fx:id="uniNameCol" prefWidth="75.0" text="Uni Name" />
+            <TableColumn fx:id="trainingSelectedCol" prefWidth="276.0" text="Training slected" />
+            <TableColumn fx:id="noOfTrainingCol" prefWidth="88.0" text="No. Of Training" />
+            <TableColumn fx:id="paidInternCol" prefWidth="93.0" text="paid Intern" />
+        </columns>
+      </TableView>
+      <ComboBox fx:id="filterComboBox" layoutX="451.0" layoutY="147.0" prefWidth="150.0" />
+      <CheckBox fx:id="programmingCheckBox" layoutX="380.0" layoutY="89.0" mnemonicParsing="false" text="Programming" />
+      <Label layoutX="21.0" layoutY="89.0" prefHeight="17.0" prefWidth="75.0" text="Uni Name : " />
+      <Label fx:id="uniNameLabel" layoutX="126.0" layoutY="89.0" prefHeight="17.0" prefWidth="117.0" style="-fx-background-color: lightgrey;" />
+   </children>
+</AnchorPane>

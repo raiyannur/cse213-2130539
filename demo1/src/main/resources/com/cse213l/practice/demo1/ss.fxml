@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.cse213l.practice.demo1.Ss">
+   <children>
+      <Button layoutX="77.0" layoutY="80.0" mnemonicParsing="false" text="Button" />
+      <ColorPicker layoutX="190.0" layoutY="164.0" />
+      <ComboBox fx:id="chuchuCombo" layoutX="300.0" layoutY="94.0" prefWidth="150.0" promptText="chuchu" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eee88ead-4fb5-424a-a6f6-2fe108cf2bee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../cart/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/cse213l/practice/demo/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/cse213l/practice/demo/PaymentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/cse213l/practice/demo/PaymentScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/com/cse213l/practice/demo/payment_scene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/cse213l/practice/demo1/Ss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/resources/com/cse213l/practice/demo1/ss.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cse213l/practice/interns/DummyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cse213l/practice/interns/InternClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cse213l/practice/interns/Internship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cse213l/practice/interns/TraineeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/cse213l/practice/interns/internship.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midpracticeproject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midpracticeproject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midpracticeproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midpracticeproject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midpracticeproject/src/main/java/com/cse213l/practice/midpracticeproject/DummyTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midpracticeproject/src/main/java/com/cse213l/practice/midpracticeproject/Intern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midpracticeproject/src/main/java/com/cse213l/practice/midpracticeproject/Internship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midpracticeproject/src/main/java/com/cse213l/practice/midpracticeproject/Trainee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midpracticeproject/src/main/resources/com/cse213l/practice/midpracticeproject/internship.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/src/main/java/com/cse213l/practice/test2/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/src/main/resources/com/cse213l/practice/test2/Payment.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../texasChainMassacre/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../texasChainMassacre/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../texasChainMassacre/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../texasChainMassacre/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../texasChainMassacre/src/main/java/com/cse213l/practice/texaschainmassacre/Intern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../texasChainMassacre/src/main/java/com/cse213l/practice/texaschainmassacre/Internship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../texasChainMassacre/src/main/java/com/cse213l/practice/texaschainmassacre/Trainee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../texasChainMassacre/src/main/resources/com/cse213l/practice/texaschainmassacre/Internship.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ih6KfXTscBpDltqvGun5nUVPnV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eee88ead-4fb5-424a-a6f6-2fe108cf2bee" name="Changes" comment="" />
+      <created>1719930400710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719930400710</updated>
+    </task>
+    <servers />
+  </component>
+</project>
